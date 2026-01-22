@@ -40,7 +40,7 @@ This portfolio reflects the mindset of **building, learning, and executing ideas
 ## 🧑‍💻 Developed By
 **Team A3 – Rasulians**  
 Department of Computer Information Technology  
-**Rasulian**  
+**Rasulian 024**  
 
 ---
 
